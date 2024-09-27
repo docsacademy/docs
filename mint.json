@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "My API Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -20,6 +20,10 @@
       "name": "Support",
       "url": "mailto:hi@mintlify.com"
     }
+    {
+      "name": "Google",
+      "url": "https://google.com"
+    }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
@@ -29,6 +33,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    }
+    {
+      "name": "Cloud Fax",
+      "url": "cloud-fax"
     }
   ],
   "anchors": [
