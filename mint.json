@@ -20,10 +20,17 @@
       "name": "Support",
       "url": "mailto:hi@mintlify.com"
     }
+  ],
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "Cloud Fax",
+      "openapi": "fax4a-api-yaml.0ded49a0afb222b66906fa2c48ab540b.yaml",
+      "url": "cloud-fax",
+      "icon": "square-terminal"
     }
   ],
   "anchors": [
