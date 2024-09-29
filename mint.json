@@ -35,7 +35,7 @@
     },
     {
       "name": "Cloud Fax",
-      "openapi": "fax4a-api-yaml.0ded49a0afb222b66906fa2c48ab540b.yaml",
+      "openapi": "/fax4a-api-yaml.0ded49a0afb222b66906fa2c48ab540b.yaml",
       "url": "cloud-fax",
       "icon": "square-terminal"
     },
